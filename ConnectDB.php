@@ -32,3 +32,4 @@ class ConnectDB {
     return $bdd;
   }
 }
+?>
